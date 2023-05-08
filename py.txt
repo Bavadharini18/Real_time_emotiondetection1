@@ -1,0 +1,5 @@
+# get the data from
+!weget https://www.dropbox.com/s/w3zlhing4dkgeyb/train.zip?dl=0
+
+# unzip the data
+!unzip train.zip?dl=0
